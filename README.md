@@ -7,3 +7,5 @@ Primary analysis will be done in Jupyter (Python), though in the long run I may 
 Visualizations in Tableau will be produced.
 
 Data Source: https://www.kaggle.com/gyejr95/tft-match-data
+
+Packages: Pandas, Numpy, os, json
